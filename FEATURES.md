@@ -1,0 +1,8 @@
+- Back Office (interface admin).            | Magomed
+- Page de présentation de l'entreprise      | Client potentiel
+- Page de connexion                         | Client potentiel
+- Services proposés                         | CLient potentiel
+- Galerie des réalisation                   | Client potentiel
+- Page de contact                           | Client potentiel
+- A propos de nous + témognage              | Client potentiel
+- Page pour postuler                        | Client potentiel
