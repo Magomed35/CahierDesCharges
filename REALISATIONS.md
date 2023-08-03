@@ -3,7 +3,7 @@ Galerie des réalisations
 Sous-fonctionnalités :
 
 Affichage des réalisations passées de l'entreprise.
-Tri et filtrage des réalisations par catégories (rénovation, construction, etc.).
+Tri et filtrage des réalisations par catégories (rénovation, construction, aménagement paysager, etc.).
 Visualisation détaillée de chaque réalisation avec des images et une description.
 Possibilité de cliquer sur une réalisation pour en savoir plus.
 Contraintes :
