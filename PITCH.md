@@ -10,7 +10,9 @@ Fonctionnalités :
 - Services proposés                                 |      Magomed
 - Galerie des réalisation                           |      Magomed
 - Page de contact                                   |      Magomed
-- A propos de nous + témognage                      |      Magomed
+- A propos de nous                                  |      Magomed
+- Témoignage
+- Devis
 - Page pour postuler                                |      Magomed
 
 
