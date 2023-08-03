@@ -1,9 +1,11 @@
-Back office (interface admin) => Administrateur de l'entreprise
-Page de présentation de l'entreprise => Client potentiel, Visiteurs du site
-Services proposés => Client potentiel, Visiteurs du site
-Galerie des réalisations => Client potentiel, Visiteurs du site
-Page de contact => Client potentiel, Visiteurs du site
-À Propos de Nous => Client potentiel, Visiteurs du site
-Témoignages => Client potentiel, Visiteurs du site
-Page pour postuler (Offres d'emploi) => Candidats potentiels
-Devis => Client potentiel, Visiteurs du site
+**FEATURES.md**
+
+1. Back office (interface admin) => Administrateur de l'entreprise
+2. Page de présentation de l'entreprise => Client potentiel, Visiteurs du site
+3. Services proposés => Client potentiel, Visiteurs du site
+4. Galerie des réalisations => Client potentiel, Visiteurs du site
+5. Page de contact => Client potentiel, Visiteurs du site
+6. À Propos de Nous => Client potentiel, Visiteurs du site
+7. Témoignages => Client potentiel, Visiteurs du site
+8. Page pour postuler (Offres d'emploi) => Candidats potentiels
+9. Devis => Client potentiel, Visiteurs du site
