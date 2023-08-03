@@ -1,21 +1,35 @@
-**Contraintes techniques du projet :**
+**CONSTRAINTS.md**
 
-1. **Compatibilité des navigateurs :** Le site doit être compatible avec les principaux navigateurs web tels que Google Chrome, Mozilla Firefox, Safari, Microsoft Edge et Opera. Les versions les plus récentes de ces navigateurs doivent être prises en compte pour assurer une expérience utilisateur cohérente.
+1. **Compatibilité Navigateurs :**
+   - Le site devra être compatible avec les navigateurs les plus couramment utilisés, tels que Google Chrome, Mozilla Firefox, Safari et Microsoft Edge, ainsi qu'avec les versions les plus récentes de ces navigateurs.
+   - Des tests de compatibilité seront effectués pour s'assurer que le site s'affiche correctement et fonctionne de manière optimale sur tous ces navigateurs.
 
-2. **Sécurité :** Des mesures de sécurité robustes doivent être mises en place pour protéger le site contre les attaques potentielles telles que les attaques XSS, les attaques par injection SQL, les tentatives de piratage et les vulnérabilités courantes.
+2. **Sécurité :**
+   - Le site devra mettre en place des mesures de sécurité robustes pour protéger les données des utilisateurs et prévenir les attaques potentielles, telles que les injections SQL, les tentatives d'accès non autorisées, etc.
+   - Un certificat SSL sera installé pour sécuriser les communications et protéger les informations sensibles échangées entre le site et les utilisateurs.
 
-3. **Gestion du responsive :** Le site doit être développé de manière à être entièrement responsive, afin de s'adapter automatiquement aux différentes tailles d'écran, y compris les smartphones, les tablettes et les ordinateurs de bureau.
+3. **Gestion du Responsive :**
+   - Le site sera conçu en utilisant des techniques de développement web responsive pour assurer une expérience utilisateur optimale sur différents appareils, y compris les smartphones, tablettes et ordinateurs de bureau.
+   - Des tests seront réalisés pour vérifier le bon affichage du site sur différentes résolutions d'écran.
 
-4. **Accessibilité :** Une attention particulière doit être portée à l'accessibilité du site pour les personnes en situation de handicap. Le respect des normes d'accessibilité WCAG (Web Content Accessibility Guidelines) sera une priorité pour faciliter l'utilisation du site par tous les utilisateurs.
+4. **Accessibilité :**
+   - Le site sera conçu en tenant compte des normes d'accessibilité WCAG (Web Content Accessibility Guidelines) pour rendre le contenu accessible aux personnes en situation de handicap.
+   - Des alternatives textuelles pour les images, une navigation clavier conviviale et une attention particulière aux contrastes de couleurs seront pris en compte.
 
-**Contraintes non techniques du projet :**
+5. **Obligations Légales :**
+   - Le site devra se conformer aux lois et réglementations en vigueur, notamment en matière de protection des données personnelles (RGPD) et de propriété intellectuelle.
+   - Des mentions légales, une politique de confidentialité et de cookies seront incluses pour informer les utilisateurs sur la collecte et l'utilisation des données.
 
-1. **Obligations légales :** Le site doit être développé conformément aux lois et réglementations en vigueur concernant la protection des données, la confidentialité et les droits d'auteur. Toute utilisation de contenus tiers (images, vidéos, etc.) doit être légale et respecter les droits d'auteur.
+6. **Besoin de Support :**
+   - Un contrat de maintenance et de support sera établi pour garantir la stabilité, la sécurité et la disponibilité continue du site.
+   - Le support technique devra être réactif pour résoudre les problèmes éventuels et assister l'administrateur.
 
-2. **Besoin de support :** Une documentation complète et claire doit être fournie pour permettre à l'équipe de maintenance de prendre en charge le site après sa livraison. Un processus de support efficace doit être mis en place pour répondre aux questions et aux problèmes des utilisateurs.
+7. **Besoin de Formation :**
+   - Une formation sera dispensée à l'administrateur pour lui permettre de gérer efficacement le contenu du site et utiliser le back office.
+   - Des tutoriels et une documentation seront fournis pour faciliter la prise en main du back office.
 
-3. **Besoin de formation :** Si nécessaire, une formation doit être proposée à l'équipe de l'entreprise pour les familiariser avec l'utilisation du panneau d'administration et la gestion autonome du contenu du site.
+8. **Contraintes dues au Cadre de la Formation :**
+   - Le projet devra être réalisé dans le cadre des ressources et du temps alloués par la formation.
+   - L'utilisation de certaines technologies ou outils peut être limitée par les directives de la formation.
 
-4. **Contraintes dues au cadre de la formation :** Le projet doit être réalisé dans le cadre de la formation, en tenant compte des ressources et du temps alloués. Les technologies mentionnées dans le cahier des charges (HTML/CSS, JavaScript natif, PHP natif) doivent être en adéquation avec les compétences enseignées durant la formation.
-
-Ces contraintes techniques et non techniques doivent être prises en compte tout au long du processus de développement pour assurer le succès du projet et répondre aux attentes de l'entreprise cliente, tout en respectant les exigences de la formation.
+Ces contraintes guideront le développement et la conception du site web pour s'assurer que toutes les exigences techniques et légales sont respectées, tout en répondant aux besoins spécifiques des utilisateurs et de l'entreprise.
