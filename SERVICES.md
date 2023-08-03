@@ -4,7 +4,7 @@ Sous-fonctionnalités :
 
 Affichage de la liste des services offerts par l'entreprise.
 Description détaillée de chaque service.
-Liens vers les pages spécifiques des services pour en savoir plus.
+Liens vers les pages spécifiques des services pour en savoir plus. 
 Possibilité de trier et de filtrer les services par catégories.
 Contraintes :
 
