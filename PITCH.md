@@ -1,27 +1,5 @@
-PORTFOLIO : 
+**PITCH.md**
 
-Pitch : 
-Projet : Site de présentation et de contact pour une société dans le batiment.
-
-Fonctionnalités : 
-
-- Back Office (interface admin).                    |      Magomed
-- Page de présentation de l'entreprise              |      Magomed
-- Services proposés                                 |      Magomed
-- Galerie des réalisation                           |      Magomed
-- Page de contact                                   |      Magomed
-- A propos de nous                                  |      Magomed
-- Témoignage
-- Devis
-- Page pour postuler                                |      Magomed
-
-
-Technologie utilisées : 
-
-- HTML / CSS
-- JavaScript
-- PHP
-
-
-Délai de réalisation : 2 mois.
-
+1. Notre site web pour l'entreprise de travaux dans le bâtiment vise à être une vitrine professionnelle et moderne mettant en avant notre expertise, nos réalisations passées et nos services variés pour attirer de nouveaux clients et partenaires.
+2. Avec une interface conviviale et une navigation intuitive, notre site facilitera les demandes de devis en ligne et offrira une plateforme pour les candidats talentueux cherchant à rejoindre notre équipe.
+3. Nous souhaitons que notre site web soit un reflet de notre engagement envers la qualité et la satisfaction du client, tout en renforçant notre crédibilité et en nous positionnant en tant qu'acteur majeur sur le marché des travaux dans le bâtiment.
