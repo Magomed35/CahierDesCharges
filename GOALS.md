@@ -1,25 +1,25 @@
 **GOALS.md**
 
-1. **Objectifs du Site Web :**
+1. **Objectifs du Projet :**
 
-   - Faciliter la présentation de l'entreprise : Le site vise à présenter l'entreprise de travaux dans le bâtiment de manière professionnelle et attrayante en mettant en avant ses valeurs, son expertise, et son équipe.
+   - Faciliter la présentation professionnelle de l'entreprise : Le site web vise à offrir une plateforme moderne et attrayante pour présenter l'entreprise de travaux dans le bâtiment, en mettant en avant son expertise, son savoir-faire et son équipe qualifiée.
 
-   - Augmenter la visibilité et la crédibilité : En exposant des exemples de réalisations passées et des témoignages clients positifs, le site renforcera la crédibilité de l'entreprise et augmentera sa visibilité auprès du public cible.
+   - Attirer de nouveaux clients potentiels : En exposant des exemples de réalisations passées et en fournissant des informations détaillées sur les services offerts, le site cherchera à attirer des clients potentiels intéressés par les services de l'entreprise.
 
-   - Faciliter les demandes de devis : Le formulaire de demande de devis en ligne simplifiera le processus pour les clients potentiels souhaitant obtenir des informations sur les services et demander un devis pour leurs projets.
+   - Simplifier le processus de demande de devis et de candidature : Le site permettra aux visiteurs de soumettre facilement des demandes de devis en ligne et aux candidats de postuler aux offres d'emploi publiées par l'entreprise.
 
-   - Attirer de nouveaux talents : Les offres d'emploi publiées sur le site visent à attirer des candidats qualifiés et passionnés pour rejoindre l'équipe de l'entreprise.
+   - Renforcer la crédibilité de l'entreprise : En incluant des témoignages clients positifs, le site contribuera à renforcer la crédibilité de l'entreprise et à instaurer la confiance auprès des visiteurs.
 
-   - Accroître le taux de conversion : Le site vise à convertir les visiteurs en prospects et clients potentiels en offrant des informations pertinentes et une expérience utilisateur optimale.
+   - Augmenter la notoriété de la marque : En fournissant un contenu de qualité et en optimisant le référencement, le site visera à accroître la visibilité de l'entreprise sur les moteurs de recherche et les réseaux sociaux.
 
-   - Améliorer l'engagement des utilisateurs : En fournissant du contenu intéressant et interactif, le site cherchera à augmenter le temps passé sur le site et à encourager les utilisateurs à revenir.
+   - Améliorer l'engagement des utilisateurs : Le site cherchera à susciter l'engagement des visiteurs en offrant une expérience utilisateur fluide, des visuels attrayants et un contenu informatif.
 
-   - Assurer la conformité légale : Le site s'engage à respecter les lois et réglementations en matière de protection des données personnelles et de propriété intellectuelle.
+   - Faciliter la gestion du contenu : Le back office permettra à l'administrateur de gérer facilement le contenu du site, y compris les pages, les services, les réalisations, les témoignages, les offres d'emploi et les demandes de devis.
 
-   - Fournir un support efficace : Le site offrira un formulaire de contact et des informations de contact claires pour permettre aux utilisateurs de poser des questions et de recevoir des réponses rapides.
+   - Répondre aux normes d'accessibilité : En respectant les normes WCAG, le site s'efforcera de garantir l'accessibilité pour tous les utilisateurs, y compris ceux en situation de handicap.
 
-   - Améliorer la notoriété de la marque : En fournissant un contenu de qualité et en communiquant les valeurs de l'entreprise, le site contribuera à renforcer la notoriété de la marque dans le domaine des travaux dans le bâtiment.
+   - Suivre les performances du site : Des outils d'analyse seront mis en place pour suivre les statistiques du site, identifier les sources de trafic et optimiser les performances pour atteindre les objectifs fixés.
 
-   - Suivre les performances du site : Des outils d'analyse seront mis en place pour suivre les statistiques du site, identifier les sources de trafic, et optimiser les performances pour atteindre les objectifs fixés.
+   - Respecter les contraintes légales : Le site se conformera aux lois et réglementations en matière de protection des données personnelles et de propriété intellectuelle.
 
-Ces objectifs guideront la conception et le développement du site web pour assurer qu'il répond aux besoins de l'entreprise et des utilisateurs, tout en atteignant ses objectifs commerciaux et de marketing.
+Ces objectifs définiront la vision du projet et guideront le processus de conception, de développement et de promotion du site web pour l'entreprise de travaux dans le bâtiment.
