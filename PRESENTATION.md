@@ -1,13 +1,12 @@
-Objectif : Présenter l'entreprise de construction de manière professionnelle.
+Page de présentation de l'entreprise
 
 Sous-fonctionnalités :
 
-- Présentation de l'entreprise : Une section décrivant l'historique de l'entreprise, sa mission, ses valeurs et son engagement envers la qualité.
-- Compétences et expertises : Mettre en évidence les domaines d'expertise de l'entreprise, tels que la construction résidentielle, commerciale et industrielle.
-- Résumé des réussites : Une liste des réalisations notables de l'entreprise avec des informations clés sur chaque projet.
-- Appel à l'action : Un bouton d'appel à l'action sur la page d'accueil pour inciter les visiteurs à prendre contact avec l'entreprise.
-
+Affichage du nom, de l'historique et des valeurs de l'entreprise.
+Présentation de la mission et de la vision de l'entreprise.
+Affichage de l'équipe et des profils des membres clés.
+Utilisation d'éléments visuels et d'effets pour une présentation attractive.
 Contraintes :
 
-- Le contenu de présentation doit être clair, concis et convaincant.
-- Les informations fournies doivent être vérifiables et mises à jour régulièrement.
+Le contenu doit être concis et attrayant pour captiver l'attention des visiteurs.
+L'ensemble de la page doit être responsive pour une visualisation optimale sur tous les appareils.
