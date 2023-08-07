@@ -9,4 +9,4 @@ Possibilité de cliquer sur une réalisation pour en savoir plus.
 Contraintes :
 
 Les images doivent être optimisées pour un chargement rapide sans compromettre la qualité visuelle.
-L'interface de la galerie doit être conviviale et permettre aux visiteurs de parcourir facilement les réalisations.
+L'interface de la galerie doit être conviviale et permettre aux visiteurs de parcourir facilement les réalisations. 
