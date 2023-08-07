@@ -1,0 +1,69 @@
+Roles
+---------
+RoleId (PK)
+RoleName
+
+Users
+---------
+UserId (PK)
+Username
+Password
+Email
+
+
+CompanyInformations
+---------
+CompanyInfoId (PK)
+Title
+History
+
+Services
+---------
+ServiceId (PK)
+Title
+Description
+
+Realizations
+---------
+RealizationId (PK)
+Title
+Description
+Category
+
+Images
+---------
+ImageId (PK)
+RealizationId (FK)
+ImageURL
+
+Testimonials
+---------
+TestimonialId (PK)
+ClientName
+CompanyName
+TestimonialText
+Image
+
+JobOpenings
+---------
+JobId (PK)
+JobTitle
+JobDescription
+Requirements
+
+ContactMessages
+---------
+MessageId (PK)
+Name
+Email
+Phone
+Subject
+Message
+
+QuoteRequests
+---------
+QuoteId (PK)
+Name
+Email
+Phone
+ProjectDetails
