@@ -1,13 +1,26 @@
-Objectif : Favoriser l'accessibilité pour tous les utilisateurs.
+ACCESSIBILITY.md
 
-Sous-fonctionnalités :
+L'accessibilité du site web est essentielle pour permettre à tous les utilisateurs, y compris ceux en situation de handicap, de naviguer et d'interagir avec le contenu de manière efficace. Voici les principales mesures prises pour assurer l'accessibilité du site :
 
-- Respect des normes WCAG : Le site doit être développé en respectant les normes d'accessibilité WCAG, notamment en fournissant des alternatives textuelles pour les images, en utilisant une structure HTML sémantique, et en garantissant une navigation claire et cohérente.
-- Contrastes et couleurs : Utiliser des contrastes de couleurs suffisants pour assurer une lisibilité optimale.
-- Adaptabilité du texte : Permettre aux visiteurs de modifier la taille du texte pour faciliter la lecture.
-- Accessibilité au clavier : Assurer que toutes les fonctionnalités du site peuvent être utilisées avec un clavier uniquement, sans dépendre uniquement de la souris.
+Contraste et lisibilité :
 
-Contraintes :
+Utilisation de couleurs contrastées pour faciliter la lecture du contenu, notamment pour les personnes malvoyantes ou atteintes de daltonisme.
+Utilisation de polices lisibles et ajustables en taille pour permettre aux utilisateurs de modifier la taille du texte selon leurs préférences.
+Alternatives textuelles pour les images :
 
-- Le respect des normes d'accessibilité doit être une priorité tout au long du développement du site.
-- Les fonctionnalités et interactions doivent être conçues de manière à être utilisables par tous les visiteurs.
+Fourniture d'attributs ALT aux images pour permettre aux lecteurs d'écran de décrire le contenu des images aux utilisateurs malvoyants.
+Navigation clavier :
+
+Assurer une navigation conviviale en utilisant uniquement le clavier pour accéder à toutes les fonctionnalités et liens du site, afin de faciliter l'utilisation pour les personnes ayant des difficultés motrices.
+Structuration du contenu :
+
+Utilisation de balises sémantiques HTML appropriées pour structurer le contenu du site, facilitant ainsi la compréhension du site par les lecteurs d'écran et les technologies d'assistance.
+Formulaires accessibles :
+
+Ajout d'étiquettes et de descriptions claires pour les champs de formulaire pour guider les utilisateurs dans leur saisie et leur compréhension des exigences.
+Multimédia accessible :
+
+Si des vidéos ou des fichiers audio sont intégrés, ils seront accompagnés de sous-titres et de transcriptions pour permettre une meilleure accessibilité aux personnes malentendantes ou sourdes.
+Tests d'accessibilité :
+
+Des tests réguliers seront effectués pour s'assurer de la conformité du site aux normes d'accessibilité WCAG 2.0 ou ultérieures.
