@@ -1,23 +1,21 @@
-/
-|-- index.html                 // Page d'accueil
-|-- services.html              // Page des services proposés
-|-- gallery.html               // Page de la galerie des réalisations
-|-- about.html                 // Page à propos de l'entreprise
-|-- contact.html               // Page de contact
-|-- css/
-|   |-- style.css              // Fichier de style CSS
-|-- js/
-|   |-- main.js                // Fichier JavaScript principal
-|-- img/
-|   |-- logo.png               // Logo de l'entreprise
-|   |-- service1.jpg           // Image représentant le service 1
-|   |-- service2.jpg           // Image représentant le service 2
-|   |-- ...
-|   |-- project1.jpg           // Image représentant le projet 1
-|   |-- project2.jpg           // Image représentant le projet 2
-|   |-- ...
-|-- admin/
-|   |-- login.html             // Page de connexion au panneau d'administration
-|   |-- dashboard.html         // Tableau de bord du panneau d'administration
-|   |-- manage_projects.html   // Page de gestion des projets
-|   |-- manage_services.html   // Page de gestion des services
+- Accueil (Route : /)
+- Présentation de l'entreprise (Route : /a-propos)
+- Services proposés (Route : /services)
+- Galerie des réalisations (Route : /realisations)
+  - Rénovation (Route : /realisations/renovation)
+  - Construction (Route : /realisations/construction)
+  - Autres (Route : /realisations/autres)
+- Témoignages (Route : /temoignages)
+- Postuler (Route : /postuler)
+- Contact (Route : /contact)
+- Demande de devis (Route : /demande-de-devis)
+- Connexion (Route : /connexion)
+- Tableau de bord administrateur (Route : /admin)
+  - Gestion des utilisateurs (Route : /admin/utilisateurs)
+  - Gestion des services (Route : /admin/services)
+  - Gestion des réalisations (Route : /admin/realisations)
+  - Gestion des témoignages (Route : /admin/temoignages)
+  - Gestion des offres d'emploi (Route : /admin/offres-demploi)
+  - Gestion des messages de contact (Route : /admin/messages-de-contact)
+  - Gestion des demandes de devis (Route : /admin/demandes-de-devis)
+
