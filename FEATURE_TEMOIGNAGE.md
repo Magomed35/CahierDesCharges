@@ -9,4 +9,4 @@ Possibilité de cliquer sur un témoignage pour en savoir plus.
 Contraintes :
 
 Les témoignages doivent être authentiques et représentatifs des expériences des clients.
-L'utilisation d'images des clients doit respecter les droits de confidentialité et de propriété intellectuelle.
+L'utilisation d'images doit respecter les droits d'auteur et les autorisations nécessaires.
