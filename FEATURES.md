@@ -7,5 +7,4 @@
 5. Page de contact => Client potentiel, Visiteurs du site
 6. À Propos de Nous => Client potentiel, Visiteurs du site
 7. Témoignages => Client potentiel, Visiteurs du site
-8. Page pour postuler (Offres d'emploi) => Candidats potentiels
-9. Devis => Client potentiel, Visiteurs du site
+8. Devis => Client potentiel, Visiteurs du site
