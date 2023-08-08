@@ -6,7 +6,7 @@
 
    - Attirer de nouveaux clients potentiels : En exposant des exemples de réalisations passées et en fournissant des informations détaillées sur les services offerts, le site cherchera à attirer des clients potentiels intéressés par les services de l'entreprise.
 
-   - Simplifier le processus de demande de devis et de candidature : Le site permettra aux visiteurs de soumettre facilement des demandes de devis en ligne et aux candidats de postuler aux offres d'emploi publiées par l'entreprise.
+   - Simplifier le processus de demande de devis et de candidature : Le site permettra aux visiteurs de soumettre facilement des demandes de devis en ligne.
 
    - Renforcer la crédibilité de l'entreprise : En incluant des témoignages clients positifs, le site contribuera à renforcer la crédibilité de l'entreprise et à instaurer la confiance auprès des visiteurs.
 
