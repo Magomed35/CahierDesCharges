@@ -1,69 +1,71 @@
-Roles
----------
-RoleId (PK)
-RoleName
+Bien sûr, voici la structure de vos tables documentée en format Markdown :
 
-Users
+### Table Users
 ---------
-UserId (PK)
-Username
-Password
-Email
+- UserId (PK)
+- Username
+- Password
+- Email
+- RoleId (FK)
+- FirstName
+- LastName
+- PhoneNumber
 
-
-CompanyInformations
+### Table Roles
 ---------
-CompanyInfoId (PK)
-Title
-History
+- RoleId (PK)
+- RoleName
 
-Services
+### Table CompanyInformations
 ---------
-ServiceId (PK)
-Title
-Description
+- CompanyInfoId (PK)
+- Title
+- History
 
-Realizations
+### Table Services
 ---------
-RealizationId (PK)
-Title
-Description
-Category
+- ServiceId (PK)
+- Title
+- Description
 
-Images
+### Table Realizations
 ---------
-ImageId (PK)
-RealizationId (FK)
-ImageURL
+- RealizationId (PK)
+- Title
+- Description
+- Category
 
-Testimonials
+### Table Images
 ---------
-TestimonialId (PK)
-ClientName
-CompanyName
-TestimonialText
-Image
+- ImageId (PK)
+- RealizationId (FK)
+- ImageURL
 
-JobOpenings
+### Table Testimonials
 ---------
-JobId (PK)
-JobTitle
-JobDescription
-Requirements
+- TestimonialId (PK)
+- ClientName
+- CompanyName
+- TestimonialText
+- Image
+- UserId (FK)
 
-ContactMessages
+### Table ContactMessages
 ---------
-MessageId (PK)
-Name
-Email
-Phone
-Subject
-Message
+- MessageId (PK)
+- Name
+- Email
+- Phone
+- Subject
+- Message
+- UserId (FK)
 
-QuoteRequests
+### Table QuoteRequests
 ---------
-QuoteId (PK)
-Name
-Email
-Phone
-ProjectDetails
+- QuoteId (PK)
+- Name
+- Email
+- Phone
+- ProjectDetails
+- UserId (FK)
+
