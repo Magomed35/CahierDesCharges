@@ -6,10 +6,11 @@
   - Construction (Route : /realisations/construction)
   - Autres (Route : /realisations/autres)
 - Témoignages (Route : /temoignages)
-- Postuler (Route : /postuler)
 - Contact (Route : /contact)
 - Demande de devis (Route : /demande-de-devis)
-- Connexion (Route : /connexion)
+- Mon Compte (Route : /connexion)
+  - Afficher mon compte
+  - Modifier mon compte
 - Tableau de bord administrateur (Route : /admin)
   - Gestion des utilisateurs (Route : /admin/utilisateurs)
   - Gestion des services (Route : /admin/services)
