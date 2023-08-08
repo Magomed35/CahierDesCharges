@@ -16,7 +16,6 @@
   - Gestion des services (Route : /admin/services)
   - Gestion des réalisations (Route : /admin/realisations)
   - Gestion des témoignages (Route : /admin/temoignages)
-  - Gestion des offres d'emploi (Route : /admin/offres-demploi)
   - Gestion des messages de contact (Route : /admin/messages-de-contact)
   - Gestion des demandes de devis (Route : /admin/demandes-de-devis)
 
