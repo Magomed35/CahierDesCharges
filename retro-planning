@@ -1,0 +1,43 @@
+**Semaine 1 (7-13 Août) : Planification et Préparation**
+	- Analyse détaillée du cahier des charges et spécifications techniques.
+	- Configuration de l’environnement de développement (WAMP, outils, etc.).
+	- Création de la structure de fichiers et dossiers du projet.
+	- Conception initiale de la base de données et création des tables.
+
+**Milestone 1 : Base de Développement Prête (13 Août)**
+
+**Semaine 2-3 (14-27 Août) : Développement de l’Interface Utilisateur**
+	- Conception et développement des pages statiques du site (accueil, présentation, services, 		  etc.).
+	- Mise en place du système d’authentification et des fonctionnalités liées aux utilisateurs.
+	- Implémentation du formulaire de contact et de l’envoi de messages.
+
+**Milestone 2 : Interface Utilisateur Fonctionnelle (27 Août)**
+
+**Semaine 4-5 (28 Août - 10 Septembre) : Gestion des Contenus et Fonctionnalités**
+	- Développement de la section des réalisations avec l’affichage des listes et des détails.
+	- Mise en place de la gestion des témoignages et de l’interface d’administration.
+	- Optimisation de la performance, tests et débogage.
+
+**Milestone 3 : Contenus et Fonctionnalités Implémentées (10 Septembre)**
+
+**Semaine 6-7 (11-24 Septembre) : Finalisation et Documentation**
+	- Finalisation des fonctionnalités et des pages.
+	- Réalisation de tests exhaustifs et correction des problèmes identifiés.
+	- Rédaction de la documentation du projet, des instructions d’installation et d’utilisation.
+
+**Milestone 4 : Projet Prêt pour le Déploiement (24 Septembre)**
+
+**Semaine 8 (25 Septembre - 1 Octobre) : Préparation au Déploiement**
+
+	- Préparation de l’environnement de production (hébergement, domaine, etc.).
+	- Configuration du serveur web (Apache) et de la base de données.
+	- Transfert des fichiers du projet sur le serveur.
+
+**Milestone 5 : Projet Déployé (1 Octobre)**
+
+**Semaine 9-10 (2-7 Octobre) : Tests Finaux et Lancement**
+	- Réalisation de tests finaux sur le serveur de production.
+	- Correction de tout problème identifié lors des tests.
+	- Lancement officiel du site web.
+
+**Milestone 6 : Lancement Réussi (7 Octobre)**
