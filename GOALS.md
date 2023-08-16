@@ -8,8 +8,6 @@
 
    - Simplifier le processus de demande de devis et de candidature : Le site permettra aux visiteurs de soumettre facilement des demandes de devis en ligne.
 
-   - Renforcer la crédibilité de l'entreprise : En incluant des témoignages clients positifs, le site contribuera à renforcer la crédibilité de l'entreprise et à instaurer la confiance auprès des visiteurs.
-
    - Augmenter la notoriété de la marque : En fournissant un contenu de qualité et en optimisant le référencement, le site visera à accroître la visibilité de l'entreprise sur les moteurs de recherche et les réseaux sociaux.
 
    - Améliorer l'engagement des utilisateurs : Le site cherchera à susciter l'engagement des visiteurs en offrant une expérience utilisateur fluide, des visuels attrayants et un contenu informatif.
