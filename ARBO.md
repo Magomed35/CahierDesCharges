@@ -5,7 +5,6 @@
   - Rénovation (Route : /realisations/renovation)
   - Construction (Route : /realisations/construction)
   - Autres (Route : /realisations/autres)
-- Témoignages (Route : /temoignages)
 - Contact (Route : /contact)
 - Demande de devis (Route : /demande-de-devis)
 - Mon Compte (Route : /connexion)
@@ -15,7 +14,6 @@
   - Gestion des utilisateurs (Route : /admin/utilisateurs)
   - Gestion des services (Route : /admin/services)
   - Gestion des réalisations (Route : /admin/realisations)
-  - Gestion des témoignages (Route : /admin/temoignages)
   - Gestion des messages de contact (Route : /admin/messages-de-contact)
   - Gestion des demandes de devis (Route : /admin/demandes-de-devis)
  
